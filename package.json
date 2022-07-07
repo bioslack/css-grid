@@ -1,0 +1,12 @@
+{
+  "name": "sass_grid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass -w ./main.scss:./styles.css"
+  },
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
